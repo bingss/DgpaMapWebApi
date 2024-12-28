@@ -1,0 +1,6 @@
+@DgpaMapWebApi_HostAddress = http://localhost:5108
+
+GET {{DgpaMapWebApi_HostAddress}}/Dgpa
+Accept: application/json
+
+###
