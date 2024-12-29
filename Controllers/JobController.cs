@@ -9,9 +9,7 @@ using DgpaMapWebApi.Service;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-//https://geocode.search.hereapi.com/v1/geocode?q=Invalidenstr+117+Berlin&apiKey=9MpplQsnWwqatGdNuN8tzL09Snkc8v2YlsIlItbSNMQ
 
 namespace DgpaMapWebApi.Controllers
 {
